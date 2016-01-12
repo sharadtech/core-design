@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Core Design",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sharadtech/core-design.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
